@@ -18,12 +18,13 @@ pip install -r requirements.txt
 '''
 
 download the dataset
-
+'''bash
 https://drive.google.com/drive/folders/18zqQiCJVgF7uzXgfbIJ-04zgz1ItNfF5
+'''
 
+'''bash
 git init
-
 dvc init
-
 dvc add data_given/winequality.csv
-
+git push origin main
+'''
