@@ -26,5 +26,6 @@ https://drive.google.com/drive/folders/18zqQiCJVgF7uzXgfbIJ-04zgz1ItNfF5
 git init
 dvc init
 dvc add data_given/winequality.csv
+git add . && git commit -m "param added'
 git push origin main
 '''
