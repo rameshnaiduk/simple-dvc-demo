@@ -1,4 +1,14 @@
+# LOcal package instal
+-e .
+
+# third party installation
+
 dvc
 dvc[gdrive]
 sklearn
 pandas
+pytest
+tox
+flake8
+flask
+gunicorn
